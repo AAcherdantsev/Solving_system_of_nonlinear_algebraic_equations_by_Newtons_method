@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Solving_system_of_nonlinear_algebraic_equations_by_Newton's_method", "Laba_12_Counter\Solving_system_of_nonlinear_algebraic_equations_by_Newton's_method.pyproj", "{7E519B33-6D00-4328-959C-EDCF23F2B03F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E519B33-6D00-4328-959C-EDCF23F2B03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E519B33-6D00-4328-959C-EDCF23F2B03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12EFA7DF-99DF-4D6F-9049-C1C1295CB9C0}
+	EndGlobalSection
+EndGlobal
